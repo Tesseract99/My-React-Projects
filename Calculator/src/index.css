@@ -1,0 +1,25 @@
+body {
+  background-color: darkcyan;
+}
+.main {
+  padding-left: 400px;
+}
+
+button {
+  padding: 20px;
+  background-color: cadetblue;
+  font-size: 180%;
+}
+
+.operator,
+.equals {
+  background-color: chartreuse;
+}
+
+h2 {
+  padding-left: 70px;
+  color: rgb(26, 25, 25);
+}
+.clear {
+  background-color: crimson;
+}
